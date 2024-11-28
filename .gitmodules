@@ -1,6 +1,11 @@
 [submodule "2015"]
 	path = 2015
 	url = ../aoc2015.git
+
+[submodule "2024"]
+	path = 2024
+	url = ../aoc2024.git
+
 [submodule "template/rust"]
 	path = template/rust
 	url = ../aoc-template.git
